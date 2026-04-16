@@ -241,11 +241,4 @@ Place `Artificial_Neural_Network_Case_Study_data.csv` in the project directory
 - [Render Docs](https://render.com/docs)
 - [Scikit-learn Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html)
 
-## 📄 License
 
-Free to use and modify
-
----
-
-**Created:** 2026
-**Status:** Ready for production
